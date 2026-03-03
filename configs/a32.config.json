@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "AndroidHQ254",
-      "repo": "https://github.com/A325F/android_kernel_samsung_a32",
-      "branch": "fifteen",
+      "repo": "https://github.com/a32-bringup/android_kernel_samsung_mt6768",
+      "branch": "lineage-23.2",
       "device": "a32",
-      "defconfig": "a32_defconfig"
+      "defconfig": "a32_lineage_defconfig"
     },
     "toolchains": [
       {
