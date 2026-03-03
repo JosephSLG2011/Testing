@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "AndroidHQ254",
+      "name": "a32_bringup",
       "repo": "https://github.com/a32-bringup/android_kernel_samsung_mt6768",
       "branch": "lineage-23.2",
       "device": "a32",
